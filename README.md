@@ -1,6 +1,6 @@
-# SNU Data Structures Assignments 2022-1 (자료구조 문병로 교수님)
+# SNU Data Structures Assignments 2022-1 
 SNU CSE M1522.000900 Data Structures (자료구조) by Prof. Byeong Ro Moon (문병로 교수님) in 2022 Spring Semester
-***
+All codes are written in Java
 ## Assignment Scores
 - HW1 (BigInteger): 100/100
 - HW2 (MovieDatabase): 100/100
